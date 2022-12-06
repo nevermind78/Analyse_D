@@ -2,6 +2,8 @@
 
 ## Data set du Titanic
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Analyse_D/main?labpath=index.ipynb)
+
 ### :file_folder: Présentation du dataset
 
 data set du titanic 
